@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-52 54 104 104" style="enable-background:new -52 54 104 104;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.9895;}
+</style>
+<g id="椭圆_4">
+	
+		<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-2.311936e-009" y1="155.5" x2="2.312413e-009" y2="52.5" gradientTransform="matrix(1 0 0 1 0 2)">
+		<stop  offset="0" style="stop-color:#0B79A3"/>
+		<stop  offset="1" style="stop-color:#0C7BA4"/>
+	</linearGradient>
+	<path id="XMLID_94_" class="st0" d="M0,157.5c-28.4,0-51.5-23.1-51.5-51.5S-28.4,54.5,0,54.5S51.5,77.6,51.5,106
+		S28.4,157.5,0,157.5z"/>
+	<path id="XMLID_91_" class="st1" d="M0,55c28.1,0,51,22.9,51,51s-22.9,51-51,51s-51-22.9-51-51S-28.1,55,0,55 M0,54
+		c-28.7,0-52,23.3-52,52s23.3,52,52,52s52-23.3,52-52S28.7,54,0,54L0,54z"/>
+</g>
+<circle id="椭圆_4_拷贝" class="st2" cx="0" cy="106" r="47"/>
+<g id="XMLID_86_">
+	<path id="XMLID_22_" class="st1" d="M7,105l-7,5l-7-5v21H7V105L7,105z"/>
+</g>
+<g id="XMLID_101_">
+	<path id="XMLID_18_" class="st1" d="M17,94l-7,7v25h14v-25L17,94L17,94z"/>
+</g>
+<g id="XMLID_100_">
+	<path id="XMLID_17_" class="st1" d="M-14,101l-10,8v17h14v-22L-14,101L-14,101z"/>
+</g>
+<polygon id="XMLID_4_" class="st1" points="21.9,83.9 12.8,86.9 15.2,89.3 -0.1,102.8 -14.1,93.8 -24.6,102.2 -23.4,103.8 
+	-13.9,96.2 0.1,105.3 16.6,90.7 18.9,93 "/>
+</svg>

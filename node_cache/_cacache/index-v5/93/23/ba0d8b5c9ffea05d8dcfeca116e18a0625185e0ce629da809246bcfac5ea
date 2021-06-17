@@ -1,0 +1,2 @@
+
+3375cc80c4b46bbeca07c0386c736452dd409db4	{"key":"make-fetch-happen:request-cache:https://cdn.npm.taobao.org/vue-luck-draw/-/vue-luck-draw-3.4.5.tgz","integrity":"sha1-l5L7+nMbB9Q3JDyN62L14f227Ao=","time":1623312580117,"size":175199,"metadata":{"url":"https://cdn.npm.taobao.org/vue-luck-draw/-/vue-luck-draw-3.4.5.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Thu, 10 Jun 2021 08:09:38 GMT","etag":"\"ADED57FDB8E35E1AAB091E273F952B10\"","last-modified":"Tue, 16 Mar 2021 15:50:24 GMT"}}}

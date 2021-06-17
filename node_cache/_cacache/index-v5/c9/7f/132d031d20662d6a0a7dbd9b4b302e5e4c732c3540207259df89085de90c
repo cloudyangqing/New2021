@@ -1,0 +1,2 @@
+
+8b95789cbb5a6e606ecf93609dbaff5f196f1cf4	{"key":"make-fetch-happen:request-cache:https://cdn.npm.taobao.org/lucky-canvas/-/lucky-canvas-1.5.4.tgz","integrity":"sha1-Ok89wISdPRUw9Un687mTnZtpnRU=","time":1623312580180,"size":74747,"metadata":{"url":"https://cdn.npm.taobao.org/lucky-canvas/-/lucky-canvas-1.5.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Thu, 10 Jun 2021 08:09:38 GMT","etag":"\"67E5E93982C1FF7A982F2A7FB24BE6BA\"","last-modified":"Fri, 07 May 2021 03:20:17 GMT"}}}

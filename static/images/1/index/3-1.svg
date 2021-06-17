@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="安全" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-268 383.9 58 74" style="enable-background:new -268 383.9 58 74;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#椭圆_1_2_);}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{fill:none;enable-background:new    ;}
+	.st3{opacity:0.2;}
+	.st4{fill:#FFFFFF;}
+</style>
+<linearGradient id="椭圆_1_2_" gradientUnits="userSpaceOnUse" x1="-239" y1="399.78" x2="-239" y2="457.78" gradientTransform="matrix(1 0 0 -1 0 841.67)">
+	<stop  offset="0" style="stop-color:#0F80B6"/>
+	<stop  offset="1" style="stop-color:#26A0D9"/>
+</linearGradient>
+<circle id="椭圆_1_1_" class="st0" cx="-239" cy="412.9" r="29"/>
+<ellipse id="椭圆_2_1_" class="st1" cx="-238.5" cy="453.9" rx="21.5" ry="4"/>
+<path class="st2" d="z"/>
+<g>
+	<g class="st3">
+		<path d="M-246.5,397.4c-2.4,0-4.4,1.7-4.9,4h-0.1v7h2v-2c0.8,0.6,1.9,1,3,1h8v9.5l4-4.3l4,4.3v-9.5h2v20h-20c-0.6,0-1-0.4-1-1v-8
+			h-2v8c0,1.7,1.3,3,3,3h22v-22v-1v-1h-20c-1.7,0-3-1.3-3-3s1.3-3,3-3h20v-2H-246.5z M-232.5,411.9l-2-2.1l-2,2.1v-4.5h4V411.9z"/>
+		<rect x="-246.5" y="401.4" width="20" height="2"/>
+		<rect x="-251.5" y="410.4" width="2" height="2"/>
+		<rect x="-251.5" y="414.4" width="2" height="2"/>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M-226.5,406.4h-20c-2.8,0-5-2.2-5-5s2.2-5,5-5h20v2h-20c-1.7,0-3,1.3-3,3s1.3,3,3,3h20V406.4z"/>
+		</g>
+		<g>
+			<rect x="-246.5" y="400.4" class="st4" width="20" height="2"/>
+		</g>
+		<g>
+			<rect x="-251.5" y="400.4" class="st4" width="2" height="7"/>
+		</g>
+		<g>
+			<rect x="-251.5" y="409.4" class="st4" width="2" height="2"/>
+		</g>
+		<g>
+			<rect x="-251.5" y="413.4" class="st4" width="2" height="2"/>
+		</g>
+		<g>
+			<path class="st4" d="M-226.5,428.4h-22c-1.7,0-3-1.3-3-3v-8h2v8c0,0.6,0.4,1,1,1h20v-21h2V428.4z"/>
+		</g>
+		<g>
+			<polygon class="st4" points="-230.5,415.9 -234.5,411.7 -238.5,415.9 -238.5,405.4 -236.5,405.4 -236.5,410.9 -234.5,408.7 
+				-232.5,410.9 -232.5,405.4 -230.5,405.4 			"/>
+		</g>
+	</g>
+</g>
+</svg>
